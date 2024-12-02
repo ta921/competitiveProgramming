@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/mnt/d/ctf/competitiveProgramming/ABC372",
-      "program": "/mnt/d/ctf/competitiveProgramming/ABC372/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "extension-output-ms-vscode.cpptools-#2-C",
+      "program": "extension-output-ms-vscode.cpptools-#2-C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
