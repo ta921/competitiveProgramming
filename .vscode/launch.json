@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ctf/competitiveProgramming/ABC388",
-      "program": "d:/ctf/competitiveProgramming/ABC388/build/Debug/outDebug",
+      "cwd": "d:/ctf/competitiveProgramming/ABC389",
+      "program": "d:/ctf/competitiveProgramming/ABC389/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
